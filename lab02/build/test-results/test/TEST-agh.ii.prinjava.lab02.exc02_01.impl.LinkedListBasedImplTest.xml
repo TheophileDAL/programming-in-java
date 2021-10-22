@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ii.prinjava.lab02.exc02_01.impl.LinkedListBasedImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-21T16:39:12" hostname="MacBook-Pro-de-Theophile.local" time="0.012">
+  <properties/>
+  <testcase name="pop()" classname="agh.ii.prinjava.lab02.exc02_01.impl.LinkedListBasedImplTest" time="0.012"/>
+  <system-out><![CDATA[Test pop begin
+List values before pop : 
+2
+3
+1
+List values after pop : 
+3
+1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

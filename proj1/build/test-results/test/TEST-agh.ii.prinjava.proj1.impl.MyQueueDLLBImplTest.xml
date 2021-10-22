@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ii.prinjava.proj1.impl.MyQueueDLLBImplTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-10-22T00:56:55" hostname="MacBook-Pro-de-Theophile.local" time="0.02">
+  <properties/>
+  <testcase name="enqueue()" classname="agh.ii.prinjava.proj1.impl.MyQueueDLLBImplTest" time="0.015"/>
+  <testcase name="numOfElems()" classname="agh.ii.prinjava.proj1.impl.MyQueueDLLBImplTest" time="0.001"/>
+  <testcase name="peek()" classname="agh.ii.prinjava.proj1.impl.MyQueueDLLBImplTest" time="0.001"/>
+  <testcase name="peekLast()" classname="agh.ii.prinjava.proj1.impl.MyQueueDLLBImplTest" time="0.001"/>
+  <testcase name="dequeue()" classname="agh.ii.prinjava.proj1.impl.MyQueueDLLBImplTest" time="0.001"/>
+  <system-out><![CDATA[End of test
+End of test
+End of test
+End of test
+End of test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
